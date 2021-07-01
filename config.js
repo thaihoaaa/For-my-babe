@@ -15,5 +15,5 @@ const CONFIG = {
     mess: 'I got you 🥰. Love you so much 😘😘',
     messDesc: 'I hope this funny thing makes you smile ☺️',
     btnAccept: 'It does honey',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://bitly.com.vn/wg86wd' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
